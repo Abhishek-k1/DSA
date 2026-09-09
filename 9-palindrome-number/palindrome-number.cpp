@@ -1,3 +1,18 @@
+// Leetcode #9 - Palindrome Number
+//
+// Approach:
+// Reverse the given number and compare it with the original number
+// Steps:
+// 1. If x is negative, return false
+// 2. Store the original number
+// 3. Extract the last digit using % 10
+// 4. Build the reversed number
+// 5. Remove the last digit using / 10
+// 6. Compare original and reverse
+//
+// Time Complexity: O(log n)
+// Space Complexity: O(1)
+  
 class Solution {
 public:
     bool isPalindrome(int x) {
