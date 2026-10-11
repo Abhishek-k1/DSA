@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **26** | 0 | 26 | 0 | `2026-10-10` |
+| **27** | 0 | 27 | 0 | `2026-10-11` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (26)
+### DSA (27)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -41,7 +41,8 @@
 | 0023 | [997. Pattern 7](./DSA/General/pattern-7) | [CPP](./DSA/General/pattern-7/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-30` |
 | 0024 | [1006. Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-01` |
 | 0025 | [1008. Pattern 9](./DSA/General/pattern-9) | [CPP](./DSA/General/pattern-9/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-01` |
-| 0026 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-09` |
+| 0026 | [957. Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [CPP](./DSA/General/return-the-largest-digit-in-a-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0027 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-09` |
 
 ---
 
