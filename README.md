@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **43** | 0 | 43 | 0 | `2026-10-28` |
+| **44** | 0 | 44 | 0 | `2026-10-29` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (43)
+### DSA (44)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -54,11 +54,12 @@
 | 0036 | [1008. Pattern 9](./DSA/General/pattern-9) | [CPP](./DSA/General/pattern-9/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-01` |
 | 0037 | [957. Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [CPP](./DSA/General/return-the-largest-digit-in-a-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
 | 0038 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-09` |
-| 0039 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-24` |
-| 0040 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-23` |
-| 0041 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-20` |
-| 0042 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [CPP](./DSA/Arrays/sum-of-array-elements-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
-| 0043 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-26` |
+| 0039 | [294. Reverse a String I](./DSA/Strings/reverse-a-string-i) | [CPP](./DSA/Strings/reverse-a-string-i/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-29` |
+| 0040 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-24` |
+| 0041 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-23` |
+| 0042 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-20` |
+| 0043 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [CPP](./DSA/Arrays/sum-of-array-elements-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
+| 0044 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-26` |
 
 ---
 
