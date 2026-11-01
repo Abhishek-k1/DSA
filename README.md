@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **46** | 0 | 46 | 0 | `2026-10-31` |
+| **47** | 0 | 47 | 0 | `2026-11-01` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (46)
+### DSA (47)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -28,40 +28,41 @@
 | 0010 | [921. Factorial of a Given Number](./DSA/General/factorial-of-a-given-number-ii) | [CPP](./DSA/General/factorial-of-a-given-number-ii/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-27` |
 | 0011 | [693. GCD of Two Numbers](./DSA/General/gcd-of-two-numbers) | [CPP](./DSA/General/gcd-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-17` |
 | 0012 | [296. Highest Occurring Element in an Array](./DSA/Arrays/highest-occurring-element-in-an-array) | [CPP](./DSA/Arrays/highest-occurring-element-in-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0013 | [792. LCM of two numbers](./DSA/General/lcm-of-two-numbers) | [CPP](./DSA/General/lcm-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-18` |
-| 0014 | [895. Palindrome Check](./DSA/Strings/palindrome-check) | [CPP](./DSA/Strings/palindrome-check/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-25` |
-| 0015 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [CPP](./DSA/Strings/palindrome-number/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-10` |
-| 0016 | [896. Pattern 1](./DSA/General/pattern-1) | [CPP](./DSA/General/pattern-1/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
-| 0017 | [898. Pattern 10](./DSA/General/pattern-10) | [CPP](./DSA/General/pattern-10/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-02` |
-| 0018 | [907. Pattern 11](./DSA/General/pattern-11) | [CPP](./DSA/General/pattern-11/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-02` |
-| 0019 | [909. Pattern 12](./DSA/General/pattern-12) | [CPP](./DSA/General/pattern-12/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0020 | [918. Pattern 13](./DSA/General/pattern-13) | [CPP](./DSA/General/pattern-13/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0021 | [920. Pattern 14](./DSA/General/pattern-14) | [CPP](./DSA/General/pattern-14/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0022 | [929. Pattern 15](./DSA/General/pattern-15) | [CPP](./DSA/General/pattern-15/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0023 | [931. Pattern 16](./DSA/General/pattern-16) | [CPP](./DSA/General/pattern-16/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0024 | [940. Pattern 17](./DSA/General/pattern-17) | [CPP](./DSA/General/pattern-17/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-03` |
-| 0025 | [942. Pattern 18](./DSA/General/pattern-18) | [CPP](./DSA/General/pattern-18/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0026 | [951. Pattern 19](./DSA/General/pattern-19) | [CPP](./DSA/General/pattern-19/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-05` |
-| 0027 | [953. Pattern 2](./DSA/General/pattern-2) | [CPP](./DSA/General/pattern-2/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
-| 0028 | [962. Pattern 20](./DSA/General/pattern-20) | [CPP](./DSA/General/pattern-20/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-05` |
-| 0029 | [964. Pattern 21](./DSA/General/pattern-21) | [CPP](./DSA/General/pattern-21/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0030 | [973. Pattern 22](./DSA/General/pattern-22) | [CPP](./DSA/General/pattern-22/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0031 | [975. Pattern 3](./DSA/General/pattern-3) | [CPP](./DSA/General/pattern-3/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
-| 0032 | [984. Pattern 4](./DSA/General/pattern-4) | [CPP](./DSA/General/pattern-4/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
-| 0033 | [986. Pattern 5](./DSA/General/pattern-5) | [CPP](./DSA/General/pattern-5/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
-| 0034 | [995. Pattern 6](./DSA/General/pattern-6) | [CPP](./DSA/General/pattern-6/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-30` |
-| 0035 | [997. Pattern 7](./DSA/General/pattern-7) | [CPP](./DSA/General/pattern-7/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-30` |
-| 0036 | [1006. Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-01` |
-| 0037 | [1008. Pattern 9](./DSA/General/pattern-9) | [CPP](./DSA/General/pattern-9/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-01` |
-| 0038 | [957. Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [CPP](./DSA/General/return-the-largest-digit-in-a-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
-| 0039 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-09` |
-| 0040 | [294. Reverse a String I](./DSA/Strings/reverse-a-string-i) | [CPP](./DSA/Strings/reverse-a-string-i/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-29` |
-| 0041 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-24` |
-| 0042 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-23` |
-| 0043 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [CPP](./DSA/General/second-highest-occurring-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-31` |
-| 0044 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-20` |
-| 0045 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [CPP](./DSA/Arrays/sum-of-array-elements-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
-| 0046 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-26` |
+| 0013 | [341. Largest Odd Number in a String](./DSA/Strings/largest-odd-number-in-a-string) | [CPP](./DSA/Strings/largest-odd-number-in-a-string/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-11-01` |
+| 0014 | [792. LCM of two numbers](./DSA/General/lcm-of-two-numbers) | [CPP](./DSA/General/lcm-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-18` |
+| 0015 | [895. Palindrome Check](./DSA/Strings/palindrome-check) | [CPP](./DSA/Strings/palindrome-check/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-25` |
+| 0016 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [CPP](./DSA/Strings/palindrome-number/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-10` |
+| 0017 | [896. Pattern 1](./DSA/General/pattern-1) | [CPP](./DSA/General/pattern-1/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
+| 0018 | [898. Pattern 10](./DSA/General/pattern-10) | [CPP](./DSA/General/pattern-10/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-02` |
+| 0019 | [907. Pattern 11](./DSA/General/pattern-11) | [CPP](./DSA/General/pattern-11/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-02` |
+| 0020 | [909. Pattern 12](./DSA/General/pattern-12) | [CPP](./DSA/General/pattern-12/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0021 | [918. Pattern 13](./DSA/General/pattern-13) | [CPP](./DSA/General/pattern-13/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0022 | [920. Pattern 14](./DSA/General/pattern-14) | [CPP](./DSA/General/pattern-14/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0023 | [929. Pattern 15](./DSA/General/pattern-15) | [CPP](./DSA/General/pattern-15/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0024 | [931. Pattern 16](./DSA/General/pattern-16) | [CPP](./DSA/General/pattern-16/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0025 | [940. Pattern 17](./DSA/General/pattern-17) | [CPP](./DSA/General/pattern-17/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-03` |
+| 0026 | [942. Pattern 18](./DSA/General/pattern-18) | [CPP](./DSA/General/pattern-18/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-04` |
+| 0027 | [951. Pattern 19](./DSA/General/pattern-19) | [CPP](./DSA/General/pattern-19/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-05` |
+| 0028 | [953. Pattern 2](./DSA/General/pattern-2) | [CPP](./DSA/General/pattern-2/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
+| 0029 | [962. Pattern 20](./DSA/General/pattern-20) | [CPP](./DSA/General/pattern-20/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-05` |
+| 0030 | [964. Pattern 21](./DSA/General/pattern-21) | [CPP](./DSA/General/pattern-21/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0031 | [973. Pattern 22](./DSA/General/pattern-22) | [CPP](./DSA/General/pattern-22/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0032 | [975. Pattern 3](./DSA/General/pattern-3) | [CPP](./DSA/General/pattern-3/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
+| 0033 | [984. Pattern 4](./DSA/General/pattern-4) | [CPP](./DSA/General/pattern-4/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
+| 0034 | [986. Pattern 5](./DSA/General/pattern-5) | [CPP](./DSA/General/pattern-5/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
+| 0035 | [995. Pattern 6](./DSA/General/pattern-6) | [CPP](./DSA/General/pattern-6/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-30` |
+| 0036 | [997. Pattern 7](./DSA/General/pattern-7) | [CPP](./DSA/General/pattern-7/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-30` |
+| 0037 | [1006. Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-01` |
+| 0038 | [1008. Pattern 9](./DSA/General/pattern-9) | [CPP](./DSA/General/pattern-9/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-01` |
+| 0039 | [957. Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [CPP](./DSA/General/return-the-largest-digit-in-a-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0040 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-09` |
+| 0041 | [294. Reverse a String I](./DSA/Strings/reverse-a-string-i) | [CPP](./DSA/Strings/reverse-a-string-i/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-29` |
+| 0042 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-24` |
+| 0043 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-23` |
+| 0044 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [CPP](./DSA/General/second-highest-occurring-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-31` |
+| 0045 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-20` |
+| 0046 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [CPP](./DSA/Arrays/sum-of-array-elements-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
+| 0047 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-26` |
 
 ---
 
